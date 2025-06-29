@@ -1,38 +1,30 @@
-# Interactive Sales Dashboard 
+# Interactive Sales Dashboard (Excel)
 
-## Project Overview
-This project showcases a dynamic and interactive sales dashboard created using Microsoft Excel. The dashboard helps visualize retail sales data by region, product category, and month, enabling users to quickly analyze sales performance and trends.
+This project showcases an interactive sales dashboard built using Microsoft Excel. The dashboard allows business stakeholders to quickly understand sales performance across time, categories, and regions.
 
-## Key Features
-- Dynamic filtering of sales data by Region, Category, and Month via slicers.
-- Multiple charts and graphs for visualizing sales trends and KPIs.
-- Conditional formatting highlights important data points and trends.
-- User-friendly design that allows quick exploration of the data.
-
-## Tools & Technologies
-- Microsoft Excel
-- Pivot Tables
-- Charts & Graphs
-- Slicers
+## 📊 Tools & Features Used
+- Excel Pivot Tables
+- Slicers and Filters
 - Conditional Formatting
+- Interactive KPI Cards (Total Revenue, Top Category, etc.)
+- Trend Analysis Charts
 
-## Data Source
-The dashboard uses a sample retail sales dataset containing transactional data including sales amount, product category, region, and date.
+## 🧩 Business Objective
+To enable quick decision-making for a retail company by visualizing:
+- Monthly sales trends
+- Category-wise performance
+- Regional breakdowns
+- Key KPIs at a glance
 
-## How to Use
-1. Open the Excel file in Microsoft Excel.
-2. Use the slicers on the dashboard sheet to filter the data by Region, Category, and Month.
-3. Watch the charts and tables update dynamically based on your filter selections.
-4. Analyze sales trends and key metrics interactively.
+## 📸 Preview
 
-## Learning Outcomes
-- Building interactive Excel dashboards using Pivot Tables and slicers.
-- Applying conditional formatting for automated insights.
-- Visualizing data with charts to support business decision-making.
+<img src="screenshots/dashboard-preview.png" alt="Dashboard Preview" width="600"/>
 
-## Repository Structure
-- `Interactive_Sales_Dashboard.xlsx` — The Excel workbook containing the dashboard.
-- `README.md` — This file describing the project.
+## 🚀 Outcome
+A fully functional executive dashboard that helps track performance, compare product categories, and identify key sales drivers.
+
+> *Note: All data used in this project is dummy/sample data and used for educational purposes.*
+
 
 
 
